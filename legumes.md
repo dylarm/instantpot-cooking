@@ -53,3 +53,47 @@ In general, a natural release of pressure is better, mostly due to an increased 
     - Water: fully submerge
     - Dry time: 35-45 minutes
     - Soaked time: 18-20 minutes
+
+## Peas
+
+- Dried Green
+    - Water: fully submerge
+    - Dry time: 15-18 minutes
+    - Soaked time: 10 minutes
+- Black-eyed
+    - Water: fully submerge
+    - Dry time: 20-25 minutes
+    - Soaked time: 10-15 minutes
+
+## Lentils
+
+- Green/French
+    - Water:
+        - 1:2 lentils:water dry
+        - 1:1 soaked
+    - Dry time: 10-12 minutes
+    - Soaked time: 5 minutes
+- Yellow
+    - Water: 
+        - 1:2 lentils:water dry
+        - 1:1 soaked
+    - Dry time: 12 minutes 
+    - Soaked time: 5 minutes
+- Brown
+    - Water:
+        - 1:2 lentils:water dry
+        - 1:1 soaked
+    - Dry time: 10-12 minutes
+    - Soaked time: 5 minutes
+- Black/Beluga
+    - Water:
+        - 1:2 lentils:water dry
+        - 1:1 soaked
+    - Dry time: 10-12 minutes
+    - Soaked time: 5-7 minutes
+- Red
+    - Water:
+        - 1:2 lentils:water dry
+        - 1:1.25 soaked
+    - Dry time: 10 minutes
+    - Soaked time: 5 minutes
